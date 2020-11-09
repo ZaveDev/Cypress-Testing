@@ -16,3 +16,4 @@ The quotes API runs on port `3333` and this port needs to be free, or the server
 - Run `npm run server` to spin up the quotes API on `http://localhost:3333/api/quotes`.
 - Run `npm start` to compile the React project and spin up the app on `http://localhost:1234`.
 - Run `npm test` to run tests using Cypress.
+- A window will appear with a list of example tests. Scroll down to the bottom and click on `form_tests.js` to run.
