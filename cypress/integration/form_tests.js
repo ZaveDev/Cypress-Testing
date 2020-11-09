@@ -6,7 +6,7 @@ describe('Inputs and submit button', () => {
     cy.url().should('include', 'localhost')
   })
 
-  it('sumbit button is disabled', () => {
+  it('submit button is disabled', () => {
     cy.get('#submitBtn').should('be.disabled')
   })  
 
